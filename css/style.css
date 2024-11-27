@@ -295,7 +295,7 @@ address {
   flex-shrink: 0;
 }
 
-.punkt {
+.main-li {
   width: calc((1128px - 72px) / 4);
   flex-shrink: 0;
 }
@@ -343,7 +343,7 @@ address {
   margin-top: 16px;
 }
 
-.social-link {
+.media-link {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -356,22 +356,22 @@ address {
 
 }
 
-.team-social-icon {
+.media-icon {
   width: 20px;
   height: 20px;
   fill: #f4f4fd;
 }
 
-.social-link:hover {
+.media-link:hover {
   background-color: #404BBF;
   color: #F4F4FD;
 }
 
-.social-link:focus {
+.media-link:focus {
   background-color: #404BBF;
 }
 
-.worker {
+.personel-div {
   padding: 32px 0;
 }
 
@@ -386,7 +386,7 @@ address {
   height: 260px;
 }
 
-.port-list {
+.personel {
   background-color: white;
   display: block;
   width: 264px;
@@ -436,7 +436,7 @@ address {
   text-align: center;
 }
 
-.their-job {
+.tjobs {
   font-weight: 400;
   font-size: 16px;
   color: #434455;
