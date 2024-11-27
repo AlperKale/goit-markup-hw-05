@@ -333,7 +333,7 @@ address {
   padding: 120px 0;
 }
 
-.icons-members {
+.sociall {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -371,7 +371,7 @@ address {
   background-color: #404BBF;
 }
 
-.worker {
+.teams {
   padding: 32px 0;
 }
 
@@ -425,7 +425,7 @@ address {
   flex-basis: 264px;
 }
 
-.their-name {
+.team-name {
   font-size: 20px;
   font-weight: 500;
   color: #2E2F42;
@@ -436,7 +436,7 @@ address {
   text-align: center;
 }
 
-.their-job {
+.team-job {
   font-weight: 400;
   font-size: 16px;
   color: #434455;
@@ -509,7 +509,7 @@ address {
   height: auto;
 }
 
-.their-name-port {
+.team-name-port {
   display: inline-block;
   text-align: left;
   font-weight: 500;
@@ -584,7 +584,7 @@ address {
   align-items: baseline;
 }
 
-.footer-icons-members {
+.footer-sociall {
   display: flex;
   gap: 16px;
 }
